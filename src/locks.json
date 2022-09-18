@@ -1,0 +1,1250 @@
+{
+  "locked": {
+    "/game/yieldingscarletorangutan/gamesettingsatom": {
+      "queue": [],
+      "readLocked": [
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511
+      ]
+    },
+    "/game/yieldingscarletorangutan/playermetainfoatom": {
+      "queue": [],
+      "readLocked": [
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511
+      ],
+      "writeLocked": 351
+    },
+    "/game/yieldingscarletorangutan/tournamentplayersatom": {
+      "queue": [
+        {
+          "lockerId": 391,
+          "readonly": true
+        },
+        {
+          "lockerId": 392,
+          "readonly": true
+        },
+        {
+          "lockerId": 397,
+          "readonly": true
+        },
+        {
+          "lockerId": 398,
+          "readonly": true
+        },
+        {
+          "lockerId": 365,
+          "readonly": true
+        },
+        {
+          "lockerId": 368,
+          "readonly": true
+        },
+        {
+          "lockerId": 367,
+          "readonly": true
+        },
+        {
+          "lockerId": 375,
+          "readonly": true
+        },
+        {
+          "lockerId": 401,
+          "readonly": true
+        },
+        {
+          "lockerId": 396,
+          "readonly": true
+        },
+        {
+          "lockerId": 355,
+          "readonly": true
+        },
+        {
+          "lockerId": 389,
+          "readonly": true
+        },
+        {
+          "lockerId": 405,
+          "readonly": true
+        },
+        {
+          "lockerId": 406,
+          "readonly": true
+        },
+        {
+          "lockerId": 407,
+          "readonly": true
+        },
+        {
+          "lockerId": 412,
+          "readonly": true
+        },
+        {
+          "lockerId": 409,
+          "readonly": true
+        },
+        {
+          "lockerId": 410,
+          "readonly": true
+        },
+        {
+          "lockerId": 408,
+          "readonly": true
+        },
+        {
+          "lockerId": 411,
+          "readonly": true
+        },
+        {
+          "lockerId": 413,
+          "readonly": true
+        },
+        {
+          "lockerId": 414,
+          "readonly": true
+        },
+        {
+          "lockerId": 415,
+          "readonly": true
+        },
+        {
+          "lockerId": 416,
+          "readonly": true
+        },
+        {
+          "lockerId": 417,
+          "readonly": true
+        },
+        {
+          "lockerId": 418,
+          "readonly": true
+        },
+        {
+          "lockerId": 419,
+          "readonly": true
+        },
+        {
+          "lockerId": 420,
+          "readonly": true
+        },
+        {
+          "lockerId": 421,
+          "readonly": true
+        },
+        {
+          "lockerId": 422,
+          "readonly": true
+        },
+        {
+          "lockerId": 423,
+          "readonly": true
+        },
+        {
+          "lockerId": 424,
+          "readonly": true
+        },
+        {
+          "lockerId": 425,
+          "readonly": true
+        },
+        {
+          "lockerId": 426,
+          "readonly": true
+        },
+        {
+          "lockerId": 428,
+          "readonly": true
+        },
+        {
+          "lockerId": 429,
+          "readonly": true
+        },
+        {
+          "lockerId": 427,
+          "readonly": true
+        },
+        {
+          "lockerId": 430,
+          "readonly": true
+        },
+        {
+          "lockerId": 431,
+          "readonly": true
+        },
+        {
+          "lockerId": 432,
+          "readonly": true
+        },
+        {
+          "lockerId": 433,
+          "readonly": true
+        },
+        {
+          "lockerId": 434,
+          "readonly": true
+        },
+        {
+          "lockerId": 435,
+          "readonly": true
+        },
+        {
+          "lockerId": 436,
+          "readonly": true
+        },
+        {
+          "lockerId": 437,
+          "readonly": true
+        },
+        {
+          "lockerId": 438,
+          "readonly": true
+        },
+        {
+          "lockerId": 439,
+          "readonly": true
+        },
+        {
+          "lockerId": 440,
+          "readonly": true
+        },
+        {
+          "lockerId": 441,
+          "readonly": true
+        },
+        {
+          "lockerId": 442,
+          "readonly": true
+        },
+        {
+          "lockerId": 443,
+          "readonly": true
+        },
+        {
+          "lockerId": 444,
+          "readonly": true
+        },
+        {
+          "lockerId": 445,
+          "readonly": true
+        },
+        {
+          "lockerId": 447,
+          "readonly": true
+        },
+        {
+          "lockerId": 448,
+          "readonly": true
+        },
+        {
+          "lockerId": 446,
+          "readonly": true
+        },
+        {
+          "lockerId": 449,
+          "readonly": true
+        },
+        {
+          "lockerId": 450,
+          "readonly": true
+        },
+        {
+          "lockerId": 451,
+          "readonly": true
+        },
+        {
+          "lockerId": 452,
+          "readonly": true
+        },
+        {
+          "lockerId": 453,
+          "readonly": true
+        },
+        {
+          "lockerId": 454,
+          "readonly": true
+        },
+        {
+          "lockerId": 455,
+          "readonly": true
+        },
+        {
+          "lockerId": 456,
+          "readonly": true
+        },
+        {
+          "lockerId": 457,
+          "readonly": true
+        },
+        {
+          "lockerId": 458,
+          "readonly": true
+        },
+        {
+          "lockerId": 459,
+          "readonly": true
+        },
+        {
+          "lockerId": 460,
+          "readonly": true
+        },
+        {
+          "lockerId": 461,
+          "readonly": true
+        },
+        {
+          "lockerId": 462,
+          "readonly": true
+        },
+        {
+          "lockerId": 463,
+          "readonly": true
+        },
+        {
+          "lockerId": 464,
+          "readonly": true
+        },
+        {
+          "lockerId": 466,
+          "readonly": true
+        },
+        {
+          "lockerId": 467,
+          "readonly": true
+        },
+        {
+          "lockerId": 465,
+          "readonly": true
+        },
+        {
+          "lockerId": 468,
+          "readonly": true
+        },
+        {
+          "lockerId": 469,
+          "readonly": true
+        },
+        {
+          "lockerId": 470,
+          "readonly": true
+        },
+        {
+          "lockerId": 471,
+          "readonly": true
+        },
+        {
+          "lockerId": 472,
+          "readonly": true
+        },
+        {
+          "lockerId": 473,
+          "readonly": true
+        },
+        {
+          "lockerId": 474,
+          "readonly": true
+        },
+        {
+          "lockerId": 475,
+          "readonly": true
+        },
+        {
+          "lockerId": 476,
+          "readonly": true
+        },
+        {
+          "lockerId": 477,
+          "readonly": true
+        },
+        {
+          "lockerId": 478,
+          "readonly": true
+        },
+        {
+          "lockerId": 479,
+          "readonly": true
+        },
+        {
+          "lockerId": 480,
+          "readonly": true
+        },
+        {
+          "lockerId": 481,
+          "readonly": true
+        },
+        {
+          "lockerId": 482,
+          "readonly": true
+        },
+        {
+          "lockerId": 483,
+          "readonly": true
+        },
+        {
+          "lockerId": 485,
+          "readonly": true
+        },
+        {
+          "lockerId": 486,
+          "readonly": true
+        },
+        {
+          "lockerId": 484,
+          "readonly": true
+        },
+        {
+          "lockerId": 487,
+          "readonly": true
+        },
+        {
+          "lockerId": 488,
+          "readonly": true
+        },
+        {
+          "lockerId": 489,
+          "readonly": true
+        },
+        {
+          "lockerId": 490,
+          "readonly": true
+        },
+        {
+          "lockerId": 491,
+          "readonly": true
+        },
+        {
+          "lockerId": 492,
+          "readonly": true
+        },
+        {
+          "lockerId": 493,
+          "readonly": true
+        },
+        {
+          "lockerId": 494,
+          "readonly": true
+        },
+        {
+          "lockerId": 495,
+          "readonly": true
+        },
+        {
+          "lockerId": 496,
+          "readonly": true
+        },
+        {
+          "lockerId": 497,
+          "readonly": true
+        },
+        {
+          "lockerId": 498,
+          "readonly": true
+        },
+        {
+          "lockerId": 499,
+          "readonly": true
+        },
+        {
+          "lockerId": 500,
+          "readonly": true
+        },
+        {
+          "lockerId": 501,
+          "readonly": true
+        },
+        {
+          "lockerId": 502,
+          "readonly": true
+        },
+        {
+          "lockerId": 504,
+          "readonly": true
+        },
+        {
+          "lockerId": 505,
+          "readonly": true
+        },
+        {
+          "lockerId": 503,
+          "readonly": true
+        },
+        {
+          "lockerId": 506,
+          "readonly": true
+        },
+        {
+          "lockerId": 507,
+          "readonly": true
+        },
+        {
+          "lockerId": 508,
+          "readonly": true
+        },
+        {
+          "lockerId": 509,
+          "readonly": true
+        },
+        {
+          "lockerId": 510,
+          "readonly": true
+        }
+      ],
+      "readLocked": [],
+      "writeLocked": 346
+    },
+    "/game/yieldingscarletorangutan/tournamentsettingsatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/game/yieldingscarletorangutan/tournamentstateatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/game/yieldingscarletorangutan/tournamentoverviewatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/12/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/12/tablestateatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/12/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/game/yieldingscarletorangutan/table/12/asynceventsatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/3/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/4/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/5/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/6/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/7/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/8/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/10/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/14/usermappingatom": {
+      "queue": [],
+      "readLocked": []
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/23/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        494
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/22/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        495
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/9/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        496
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/23/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        494
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/22/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        495
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/9/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        496
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/23/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        494
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/22/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        495
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/9/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        496
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/23/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        494
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/22/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        495
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/9/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        496
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/20/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        497
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/19/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        498
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/20/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        497
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/19/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        498
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/20/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        497
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/19/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        498
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/20/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        497
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/19/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        498
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/21/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        499
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/21/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        499
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/21/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        499
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/21/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        499
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/16/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        500
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/16/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        500
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/16/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        500
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/16/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        500
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/11/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        501
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/2/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        502
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/11/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        501
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/2/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        502
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/11/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        501
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/2/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        502
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/11/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        501
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/2/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        502
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/26/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        503
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/24/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        504
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/0/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        505
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/15/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        506
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/26/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        503
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/24/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        504
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/0/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        505
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/15/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        506
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/26/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        503
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/24/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        504
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/0/round/2/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        505
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/15/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        506
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/26/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        503
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/24/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        504
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/0/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        505
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/15/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        506
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/25/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        507
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/25/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        507
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/25/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        507
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/25/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        507
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/13/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        508
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/1/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        509
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/13/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        508
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/1/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        509
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/13/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        508
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/1/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        509
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/13/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        508
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/1/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        509
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/17/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        510
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/17/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        510
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/17/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        510
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/17/usermappingatom": {
+      "queue": [],
+      "readLocked": [
+        510
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/18/tablestateatom": {
+      "queue": [],
+      "readLocked": [
+        511
+      ]
+    },
+    "/game/yieldingscarletorangutan/table/18/asynceventsatom": {
+      "queue": [],
+      "readLocked": [
+        511
+      ]
+    },
+    "/club/asdf/game/yieldingscarletorangutan/table/18/round/1/tableroundatom": {
+      "queue": [],
+      "readLocked": [
+        511
+      ]
+    }
+  },
+  "lockers": {
+    "494": {
+      "id": 494,
+      "info": "{\"eventId\":\"e988356b-c090-461a-9228-909be4d254a7\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58706054}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/23/tablestateatom",
+        "/game/yieldingscarletorangutan/table/23/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/23/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/23/usermappingatom"
+      ],
+      "writes": []
+    },
+    "495": {
+      "id": 495,
+      "info": "{\"eventId\":\"5d37de6e-db08-48dd-8131-f841c5641227\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58706054}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/22/tablestateatom",
+        "/game/yieldingscarletorangutan/table/22/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/22/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/22/usermappingatom"
+      ],
+      "writes": []
+    },
+    "496": {
+      "id": 496,
+      "info": "{\"eventId\":\"cb635beb-76dd-49df-af85-d780719ecde8\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58696027}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/9/tablestateatom",
+        "/game/yieldingscarletorangutan/table/9/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/9/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/9/usermappingatom"
+      ],
+      "writes": []
+    },
+    "497": {
+      "id": 497,
+      "info": "{\"eventId\":\"247ca5ca-57c1-43de-8596-540016f916d4\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58707016}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/20/tablestateatom",
+        "/game/yieldingscarletorangutan/table/20/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/20/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/20/usermappingatom"
+      ],
+      "writes": []
+    },
+    "498": {
+      "id": 498,
+      "info": "{\"eventId\":\"82e7012b-31ee-42e0-8198-cd1c2e4929e8\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58707016}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/19/tablestateatom",
+        "/game/yieldingscarletorangutan/table/19/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/19/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/19/usermappingatom"
+      ],
+      "writes": []
+    },
+    "499": {
+      "id": 499,
+      "info": "{\"eventId\":\"c37f2b3f-8b37-43ed-945f-fb081bd33fb1\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58708039}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/21/tablestateatom",
+        "/game/yieldingscarletorangutan/table/21/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/21/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/21/usermappingatom"
+      ],
+      "writes": []
+    },
+    "500": {
+      "id": 500,
+      "info": "{\"eventId\":\"7adb1c3f-2855-4565-8d60-1ee2217667bb\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58699052}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/16/tablestateatom",
+        "/game/yieldingscarletorangutan/table/16/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/16/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/16/usermappingatom"
+      ],
+      "writes": []
+    },
+    "501": {
+      "id": 501,
+      "info": "{\"eventId\":\"6dbd9dac-4915-48ad-8cbd-6404e36c011e\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58699052}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/11/tablestateatom",
+        "/game/yieldingscarletorangutan/table/11/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/11/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/11/usermappingatom"
+      ],
+      "writes": []
+    },
+    "502": {
+      "id": 502,
+      "info": "{\"eventId\":\"e441cca1-31b2-4f6c-997d-496e5afde1ce\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58689088}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/2/tablestateatom",
+        "/game/yieldingscarletorangutan/table/2/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/2/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/2/usermappingatom"
+      ],
+      "writes": []
+    },
+    "503": {
+      "id": 503,
+      "info": "{\"eventId\":\"41febe62-0678-478d-8bd6-53be4901a5b8\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58710016}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/26/tablestateatom",
+        "/game/yieldingscarletorangutan/table/26/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/26/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/26/usermappingatom"
+      ],
+      "writes": []
+    },
+    "504": {
+      "id": 504,
+      "info": "{\"eventId\":\"5a4839d9-5007-412f-89b2-03704ccfcf7d\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58710026}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/24/tablestateatom",
+        "/game/yieldingscarletorangutan/table/24/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/24/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/24/usermappingatom"
+      ],
+      "writes": []
+    },
+    "505": {
+      "id": 505,
+      "info": "{\"eventId\":\"9ccf9208-fd37-4ed6-a11f-2cc4c82a061a\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58710026}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/0/tablestateatom",
+        "/game/yieldingscarletorangutan/table/0/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/0/round/2/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/0/usermappingatom"
+      ],
+      "writes": []
+    },
+    "506": {
+      "id": 506,
+      "info": "{\"eventId\":\"a1e94d10-b54a-468a-b5e5-464c78469cca\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58700018}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/15/tablestateatom",
+        "/game/yieldingscarletorangutan/table/15/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/15/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/15/usermappingatom"
+      ],
+      "writes": []
+    },
+    "507": {
+      "id": 507,
+      "info": "{\"eventId\":\"83e57dec-d95c-4c65-98b1-471d97645b94\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58711008}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/25/tablestateatom",
+        "/game/yieldingscarletorangutan/table/25/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/25/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/25/usermappingatom"
+      ],
+      "writes": []
+    },
+    "508": {
+      "id": 508,
+      "info": "{\"eventId\":\"c0bb4027-e156-4eed-b293-f37bc1577d46\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58701056}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/13/tablestateatom",
+        "/game/yieldingscarletorangutan/table/13/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/13/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/13/usermappingatom"
+      ],
+      "writes": []
+    },
+    "509": {
+      "id": 509,
+      "info": "{\"eventId\":\"0e214731-b3a9-427e-973f-ada81a9d9b3d\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58691060}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/1/tablestateatom",
+        "/game/yieldingscarletorangutan/table/1/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/1/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/1/usermappingatom"
+      ],
+      "writes": []
+    },
+    "510": {
+      "id": 510,
+      "info": "{\"eventId\":\"60aac7e0-f68b-451d-9357-b2fb2b2eb80f\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58702042}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/17/tablestateatom",
+        "/game/yieldingscarletorangutan/table/17/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/17/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/17/usermappingatom"
+      ],
+      "writes": []
+    },
+    "511": {
+      "id": 511,
+      "info": "{\"eventId\":\"1cfbf3ee-e01d-43c1-b26d-c437e1b85921\",\"eventType\":\"NEXT_STEP\",\"delayInMS\":2000,\"params\":[],\"createdAt\":58703070}",
+      "reads": [
+        "/game/yieldingscarletorangutan/gamesettingsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/18/tablestateatom",
+        "/game/yieldingscarletorangutan/table/18/asynceventsatom",
+        "/club/asdf/game/yieldingscarletorangutan/table/18/round/1/tableroundatom",
+        "/game/yieldingscarletorangutan/playermetainfoatom"
+      ],
+      "writes": []
+    }
+  }
+}
